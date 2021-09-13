@@ -11,9 +11,16 @@ Watch these videos:
 Answer the following question:
 
 1. What are the advantages of open source?
-2. What are the basic freedoms that make a software open source?
-3. Why do you think people should use the free software/open-source alternative instead of the proprietary version?
-4. Watch the following video: [Why is free software important? Richard Stallman - in INT's ENLIGHTENMENT MINUTES.](https://www.youtube.com/watch?v=ZPPikY3uLIQ) Do you agree with Richard Stallman? Do you disagree? Explain your answer. 
+Some of the advantages of open sources are: 
+•	The agility and flexibility
+•	Cost effectiveness 
+•	Speed 
+•	Share maintenance cost
+•	Solid information security 
+
+3. What are the basic freedoms that make a software open source?
+4. Why do you think people should use the free software/open-source alternative instead of the proprietary version?
+5. Watch the following video: [Why is free software important? Richard Stallman - in INT's ENLIGHTENMENT MINUTES.](https://www.youtube.com/watch?v=ZPPikY3uLIQ) Do you agree with Richard Stallman? Do you disagree? Explain your answer. 
 
 ## Part 2
 
